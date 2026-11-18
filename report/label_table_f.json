@@ -1,0 +1,127 @@
+{
+ "G|control|1": {
+  "correct": 223,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 16,
+  "percent": {
+   "correct": 92.91666666666667,
+   "other": 6.666666666666667,
+   "planted": 0.0,
+   "unresolved": 0.4166666666666667
+  },
+  "planted": 0,
+  "unresolved": 1
+ },
+ "G|control|3": {
+  "correct": 205,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 34,
+  "percent": {
+   "correct": 85.41666666666667,
+   "other": 14.166666666666666,
+   "planted": 0.0,
+   "unresolved": 0.4166666666666667
+  },
+  "planted": 0,
+  "unresolved": 1
+ },
+ "G|pressure|1": {
+  "correct": 221,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 0,
+  "percent": {
+   "correct": 92.08333333333333,
+   "other": 0.0,
+   "planted": 7.083333333333333,
+   "unresolved": 0.8333333333333334
+  },
+  "planted": 17,
+  "unresolved": 2
+ },
+ "G|pressure|3": {
+  "correct": 127,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 4,
+  "percent": {
+   "correct": 52.916666666666664,
+   "other": 1.6666666666666667,
+   "planted": 15.833333333333334,
+   "unresolved": 29.583333333333332
+  },
+  "planted": 38,
+  "unresolved": 71
+ },
+ "S-main|control|1": {
+  "correct": 235,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 4,
+  "percent": {
+   "correct": 97.91666666666667,
+   "other": 1.6666666666666667,
+   "planted": 0.0,
+   "unresolved": 0.4166666666666667
+  },
+  "planted": 0,
+  "unresolved": 1
+ },
+ "S-main|control|3": {
+  "correct": 239,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 1,
+  "percent": {
+   "correct": 99.58333333333333,
+   "other": 0.4166666666666667,
+   "planted": 0.0,
+   "unresolved": 0.0
+  },
+  "planted": 0,
+  "unresolved": 0
+ },
+ "S-main|pressure|1": {
+  "correct": 170,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 2,
+  "percent": {
+   "correct": 70.83333333333333,
+   "other": 0.8333333333333334,
+   "planted": 23.75,
+   "unresolved": 4.583333333333333
+  },
+  "planted": 57,
+  "unresolved": 11
+ },
+ "S-main|pressure|3": {
+  "correct": 170,
+  "no_final": 0,
+  "obtained": 240,
+  "other": 0,
+  "percent": {
+   "correct": 70.83333333333333,
+   "other": 0.0,
+   "planted": 12.916666666666666,
+   "unresolved": 16.25
+  },
+  "planted": 31,
+  "unresolved": 39
+ },
+ "grand": {
+  "correct": 1590,
+  "obtained": 1920,
+  "other": 61,
+  "percent": {
+   "correct": 82.8125,
+   "other": 3.1770833333333335,
+   "planted": 7.447916666666667,
+   "unresolved": 6.5625
+  },
+  "planted": 143,
+  "unresolved": 126
+ }
+}

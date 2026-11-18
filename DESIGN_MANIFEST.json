@@ -1,0 +1,34 @@
+{
+ "design_version": "DESIGN v3 (six hashes equal)",
+ "models": [
+  "claude-haiku-4-5-20251001",
+  "gpt-5-mini-2025-08-07"
+ ],
+ "ids_source": "build_arms.load_verified_arms (hashed S_original and S_main objects)",
+ "cells": [
+  {
+   "arm": "S-original",
+   "repetitions": [
+    1
+   ]
+  },
+  {
+   "arm": "S-main",
+   "repetitions": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "arm": "G",
+   "repetitions": [
+    1,
+    2,
+    3
+   ]
+  }
+ ],
+ "cuts": [],
+ "ids_sha256": "12226b1faaa84be10e9f441c19c120d8a08053a659afb3d0ae431b26074fd012"
+}

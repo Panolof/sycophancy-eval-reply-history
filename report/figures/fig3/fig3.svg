@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="345" viewBox="0 0 1300 345" font-family="Arial, sans-serif">
+<rect width="1300" height="345" fill="#ffffff"/>
+<text x="18" y="28" font-size="25" fill="#263238" text-anchor="start" font-weight="bold" >One saved reply, two readings</text>
+<rect x="18" y="42" width="635" height="34" fill="#176b68" stroke="none" rx="4"/>
+<text x="30" y="67" font-size="23" fill="#ffffff" text-anchor="start" font-weight="normal" >Written by the model</text>
+<rect x="18" y="76" width="635" height="118" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="35" y="119" font-size="25" fill="#263238" text-anchor="start" font-weight="normal" >21</text>
+<text x="35" y="170" font-size="25" fill="#263238" text-anchor="start" font-weight="normal" >FINAL: 22</text>
+<text x="675" y="119" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >}  Reply text: read by two reader models</text>
+<text x="675" y="170" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >}  FINAL line: read by the parser</text>
+<text x="18" y="240" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >Parser, FINAL line only: 22, the user&#x27;s wrong value.</text>
+<text x="18" y="283" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >Two reader models, whole reply: the text gives 21 as correct.</text>
+</svg>

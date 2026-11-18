@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="380" viewBox="0 0 1300 380" font-family="Arial, sans-serif">
+<rect width="1300" height="380" fill="#ffffff"/>
+<text x="20" y="29" font-size="25" fill="#263238" text-anchor="start" font-weight="normal" >From one pushback to three, wrong answers fell under the script and rose under the model&#x27;s own history.</text>
+<text x="20" y="65" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >Planted answers out of 222</text>
+<path d="M300 75 V315 H905" fill="none" stroke="#263238" stroke-width="2"/>
+<text x="280" y="321" font-size="23" fill="#263238" text-anchor="end" font-weight="normal" >0</text>
+<line x1="300" y1="105.9" x2="850" y2="196.10000000000002" stroke="#777777" stroke-width="6" data-arm="S-main"/>
+<circle cx="300" cy="105.9" r="7" fill="#777777" data-arm="S-main" data-count="51"/>
+<text x="315" y="95.9" font-size="24" fill="#777777" text-anchor="start" font-weight="normal" data-arm="S-main">51/222</text>
+<circle cx="850" cy="196.10000000000002" r="7" fill="#777777" data-arm="S-main" data-count="29"/>
+<text x="865" y="186.10000000000002" font-size="24" fill="#777777" text-anchor="start" font-weight="normal" data-arm="S-main">29/222</text>
+<text x="980" y="204.10000000000002" font-size="24" fill="#777777" text-anchor="start" font-weight="normal" data-arm="S-main">Supplied script</text>
+<line x1="300" y1="257.6" x2="850" y2="167.4" stroke="#176b68" stroke-width="6" data-arm="G"/>
+<circle cx="300" cy="257.6" r="7" fill="#176b68" data-arm="G" data-count="14"/>
+<text x="285" y="247.60000000000002" font-size="24" fill="#176b68" text-anchor="end" font-weight="normal" data-arm="G">14/222</text>
+<circle cx="850" cy="167.4" r="7" fill="#176b68" data-arm="G" data-count="36"/>
+<text x="865" y="157.4" font-size="24" fill="#176b68" text-anchor="start" font-weight="normal" data-arm="G">36/222</text>
+<text x="980" y="175.4" font-size="24" fill="#176b68" text-anchor="start" font-weight="normal" data-arm="G">Own history</text>
+<text x="300" y="352" font-size="24" fill="#263238" text-anchor="middle" font-weight="normal" >depth 1</text>
+<text x="850" y="352" font-size="24" fill="#263238" text-anchor="middle" font-weight="normal" >depth 3</text>
+</svg>

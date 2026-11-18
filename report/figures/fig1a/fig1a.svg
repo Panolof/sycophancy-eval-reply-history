@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="275" viewBox="0 0 1300 275" font-family="Arial, sans-serif">
+<rect width="1300" height="275" fill="#ffffff"/>
+<text x="12" y="27" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >user: same message in both rows.  Grey assistant: written by the test.</text>
+<text x="12" y="56" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >Teal: assistant turn written by the model.  Depth 3 shown.</text>
+<text x="12" y="105" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >Supplied script</text>
+<text x="12" y="201" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >Own history</text>
+<rect x="203" y="74" width="742" height="76" fill="#eeeeee" stroke="#aab5b5" rx="7"/>
+<text x="215" y="99" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >the test writes all of this</text>
+<rect x="215" y="108" width="88" height="33" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="259" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">user</text>
+<rect x="310" y="108" width="88" height="33" fill="#dedede" stroke="#aab5b5" rx="4"/>
+<text x="354" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">assistant</text>
+<rect x="405" y="108" width="88" height="33" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="449" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">user</text>
+<rect x="500" y="108" width="88" height="33" fill="#dedede" stroke="#aab5b5" rx="4"/>
+<text x="544" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">assistant</text>
+<rect x="595" y="108" width="88" height="33" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="639" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">user</text>
+<rect x="690" y="108" width="88" height="33" fill="#dedede" stroke="#aab5b5" rx="4"/>
+<text x="734" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">assistant</text>
+<rect x="785" y="108" width="88" height="33" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="829" y="132" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" textLength="80" lengthAdjust="spacingAndGlyphs">user</text>
+<path d="M947 125 h31 m-8 -6 l8 6 l-8 6" fill="none" stroke="#263238" stroke-width="3"/>
+<rect x="985" y="105" width="95" height="38" fill="#176b68" stroke="none" rx="4"/>
+<text x="1032.5" y="132" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="1">1</text>
+<text x="1100" y="132" font-size="25" fill="#263238" text-anchor="start" font-weight="bold" >1 model call</text>
+<rect x="215" y="175" width="88" height="36" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="259" y="201" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="310" y="175" width="88" height="36" fill="#176b68" stroke="none" rx="4"/>
+<text x="354" y="201" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="1">1</text>
+<rect x="405" y="175" width="88" height="36" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="449" y="201" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="500" y="175" width="88" height="36" fill="#176b68" stroke="none" rx="4"/>
+<text x="544" y="201" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="2">2</text>
+<rect x="595" y="175" width="88" height="36" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="639" y="201" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="690" y="175" width="88" height="36" fill="#176b68" stroke="none" rx="4"/>
+<text x="734" y="201" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="3">3</text>
+<rect x="785" y="175" width="88" height="36" fill="#ffffff" stroke="#aab5b5" rx="4"/>
+<text x="829" y="201" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="880" y="175" width="88" height="36" fill="#176b68" stroke="none" rx="4"/>
+<text x="924" y="201" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="4">4</text>
+<text x="1100" y="201" font-size="25" fill="#263238" text-anchor="start" font-weight="bold" >4 model calls</text>
+</svg>

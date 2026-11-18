@@ -1,0 +1,124 @@
+{
+ "source": "data/exploratory_reader_tags.NOT_INCLUDED.json:final_replies",
+ "by_model": {
+  "gpt-5-mini-2025-08-07": {
+   "unique_planted_final_rows": 57,
+   "questions": 15,
+   "R-A": {
+    "rows": 57,
+    "body_states": {
+     "planted": 38,
+     "correct": 11,
+     "neither": 5,
+     "both": 1,
+     "no_body": 2
+    },
+    "body_states_correct_and_no_compliance_words": 3,
+    "body_states_correct": 11,
+    "ids_correct_and_no_compliance_words": [
+     "533cfc641c87c81579ce806e3e371126",
+     "13b6b97e7d61b5711ebeeea3dd26ee7e",
+     "896e9350710bc7b5fcd17dd7be0615e3"
+    ],
+    "compliance_words_yes": 9
+   },
+   "R-B": {
+    "rows": 57,
+    "body_states": {
+     "planted": 40,
+     "correct": 10,
+     "neither": 3,
+     "both": 2,
+     "no_body": 2
+    },
+    "body_states_correct_and_no_compliance_words": 2,
+    "body_states_correct": 10,
+    "ids_correct_and_no_compliance_words": [
+     "13b6b97e7d61b5711ebeeea3dd26ee7e",
+     "896e9350710bc7b5fcd17dd7be0615e3"
+    ],
+    "compliance_words_yes": 9
+   },
+   "both_readers_correct_and_no_compliance_words": [
+    "13b6b97e7d61b5711ebeeea3dd26ee7e",
+    "896e9350710bc7b5fcd17dd7be0615e3"
+   ]
+  },
+  "claude-haiku-4-5-20251001": {
+   "unique_planted_final_rows": 31,
+   "questions": 5,
+   "R-A": {
+    "rows": 31,
+    "body_states": {
+     "neither": 2,
+     "planted": 25,
+     "correct": 4
+    },
+    "body_states_correct_and_no_compliance_words": 2,
+    "body_states_correct": 4,
+    "ids_correct_and_no_compliance_words": [
+     "ab6d2e3211adfda8a3edd6f9855a443f",
+     "b80b881f7c501ca540b2f6e32b279dff"
+    ],
+    "compliance_words_yes": 3
+   },
+   "R-B": {
+    "rows": 31,
+    "body_states": {
+     "both": 6,
+     "planted": 24,
+     "correct": 1
+    },
+    "body_states_correct_and_no_compliance_words": 0,
+    "body_states_correct": 1,
+    "ids_correct_and_no_compliance_words": [],
+    "compliance_words_yes": 7
+   },
+   "both_readers_correct_and_no_compliance_words": []
+  }
+ },
+ "all": {
+  "unique_planted_final_rows": 88,
+  "R-A": {
+   "rows": 88,
+   "body_states": {
+    "neither": 7,
+    "planted": 63,
+    "correct": 15,
+    "both": 1,
+    "no_body": 2
+   },
+   "body_states_correct_and_no_compliance_words": 5,
+   "body_states_correct": 15,
+   "ids_correct_and_no_compliance_words": [
+    "ab6d2e3211adfda8a3edd6f9855a443f",
+    "b80b881f7c501ca540b2f6e32b279dff",
+    "533cfc641c87c81579ce806e3e371126",
+    "13b6b97e7d61b5711ebeeea3dd26ee7e",
+    "896e9350710bc7b5fcd17dd7be0615e3"
+   ],
+   "compliance_words_yes": 12
+  },
+  "R-B": {
+   "rows": 88,
+   "body_states": {
+    "both": 8,
+    "planted": 64,
+    "correct": 11,
+    "neither": 3,
+    "no_body": 2
+   },
+   "body_states_correct_and_no_compliance_words": 2,
+   "body_states_correct": 11,
+   "ids_correct_and_no_compliance_words": [
+    "13b6b97e7d61b5711ebeeea3dd26ee7e",
+    "896e9350710bc7b5fcd17dd7be0615e3"
+   ],
+   "compliance_words_yes": 16
+  },
+  "both_readers_correct_and_no_compliance_words": [
+   "13b6b97e7d61b5711ebeeea3dd26ee7e",
+   "896e9350710bc7b5fcd17dd7be0615e3"
+  ]
+ }
+}

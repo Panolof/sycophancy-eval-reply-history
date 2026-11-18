@@ -1,0 +1,1 @@
+Figure 4. Three histories at depth 3, GPT-5-mini, 222 conversations each. The model's own first answer went with fewer planted answers (-9.0 points, -14.9 to -4.1); its own later turns went with more (+12.2, +6.8 to +18.0). These are sizes, not causes. Drawn by script from the run's numbers file; no image model.

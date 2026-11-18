@@ -1,0 +1,8 @@
+{
+  "creation_method": "Code drawn. Python generates SVG and rsvg-convert renders PNG. No image model.",
+  "asset_role": "Submitted figure",
+  "sha256": {
+    "g2.svg": "200d2af144e862abf897c5bd023096af0cb6d3a2f9d232e393ae7b68f6339662",
+    "g2.png": "2a70254a67d00a1881ae058361471d6f18c95619eb9c847c1455b3d61e87a40e"
+  }
+}

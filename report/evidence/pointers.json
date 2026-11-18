@@ -1,0 +1,300 @@
+[
+  {
+    "line": 65,
+    "pointer": "Appendix_C",
+    "targets": [
+      {
+        "path": "report/Appendix_C.md",
+        "fields": []
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 93,
+    "pointer": "Appendix_K",
+    "targets": [
+      {
+        "path": "report/Appendix_K.md",
+        "fields": []
+      }
+    ],
+    "note": "The three current-model results files also contain each model’s all-question sensitivities."
+  },
+  {
+    "line": 103,
+    "pointer": "Appendix_J",
+    "targets": [
+      {
+        "path": "report/Appendix_J.md",
+        "fields": []
+      },
+      {
+        "path": "results/reading/read_numbers.json",
+        "fields": [
+          "/statistics",
+          "/agreement_tier1_unique_rows",
+          "/count_tables"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 173,
+    "pointer": "Appendix_D and Appendix_I",
+    "targets": [
+      {
+        "path": "report/Appendix_D.md",
+        "fields": []
+      },
+      {
+        "path": "report/Appendix_I.md",
+        "fields": []
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 181,
+    "pointer": "F-mini.included_cells, Mini_unknown_relabelling_bound, read_tables",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/F-mini/included_cells",
+          "/Mini_unknown_relabelling_bound"
+        ]
+      },
+      {
+        "path": "results/reading/read_numbers.json",
+        "fields": [
+          "/count_tables"
+        ]
+      },
+      {
+        "path": "report/evidence/reading_tables.json",
+        "fields": [
+          "/outside_review_bound"
+        ]
+      }
+    ],
+    "note": "read_tables is represented by the corresponding model-reader count fields and the independent bound."
+  },
+  {
+    "line": 182,
+    "pointer": "<block>.excluded_control_review, F-mini.A_all40, F-haiku.B_all20, h_numbers, control_counts",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/F-mini/excluded_control_review",
+          "/F-haiku/excluded_control_review",
+          "/F-mini/A_all40",
+          "/F-haiku/B_all20"
+        ]
+      },
+      {
+        "path": "results/h-mini/h_numbers.json",
+        "fields": [
+          "/control_counts",
+          "/control_planted_questions"
+        ]
+      }
+    ],
+    "note": "The excluded-control reviews are released as aggregate judgement counts."
+  },
+  {
+    "line": 183,
+    "pointer": "<block>.included_cells.*.mean_prior_assistant_chars",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/F-mini/included_cells/S-main|pressure|1/mean_prior_assistant_chars",
+          "/F-mini/included_cells/S-main|pressure|3/mean_prior_assistant_chars",
+          "/F-mini/included_cells/G|pressure|1/mean_prior_assistant_chars",
+          "/F-mini/included_cells/G|pressure|3/mean_prior_assistant_chars",
+          "/F-haiku/included_cells/S-main|pressure|1/mean_prior_assistant_chars",
+          "/F-haiku/included_cells/S-main|pressure|3/mean_prior_assistant_chars",
+          "/F-haiku/included_cells/G|pressure|1/mean_prior_assistant_chars",
+          "/F-haiku/included_cells/G|pressure|3/mean_prior_assistant_chars"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 184,
+    "pointer": "F-mini.style_interactions",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/F-mini/style_interactions"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 185,
+    "pointer": "F-mini.within_arm_slopes, F-haiku.within_arm_slopes, F-haiku.included_cells",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/F-mini/within_arm_slopes",
+          "/F-haiku/within_arm_slopes",
+          "/F-haiku/included_cells"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 186,
+    "pointer": "h_numbers, anchor",
+    "targets": [
+      {
+        "path": "results/h-mini/h_numbers.json",
+        "fields": [
+          "/anchor"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 187,
+    "pointer": "PREREG_block_F",
+    "targets": [
+      {
+        "path": "prereg/PREREG_block_F.md",
+        "fields": []
+      },
+      {
+        "path": "data/questions_fresh.jsonl",
+        "fields": []
+      }
+    ],
+    "note": "The edited plan and frozen questions are included. The separate reference-source audit supporting 40/40 is NOT IN THIS RELEASE."
+  },
+  {
+    "line": 188,
+    "pointer": "PREREG_block_F, f_numbers, statistic_B",
+    "targets": [
+      {
+        "path": "prereg/PREREG_block_F.md",
+        "fields": []
+      },
+      {
+        "path": "results/f-haiku/f_numbers.json",
+        "fields": [
+          "/models/claude-haiku-4-5-20251001/statistic_B"
+        ]
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 189,
+    "pointer": "Run settings",
+    "targets": [
+      {
+        "path": "report/evidence/limitations.json",
+        "fields": [
+          "/header_audit_summary"
+        ]
+      }
+    ],
+    "note": "The table gives the result for 14 saved run headers. Individual headers are NOT IN THIS RELEASE."
+  },
+  {
+    "line": 190,
+    "pointer": "First-run reading protocol",
+    "targets": [],
+    "note": "NOT IN THIS RELEASE. Only the later reading plan is supplied."
+  },
+  {
+    "line": 248,
+    "pointer": "Appendix_K",
+    "targets": [
+      {
+        "path": "report/Appendix_K.md",
+        "fields": []
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 295,
+    "pointer": "Sources for the July study",
+    "targets": [],
+    "note": "NOT IN THIS RELEASE. Appendix F gives the chronology. The underlying notes are omitted."
+  },
+  {
+    "line": 296,
+    "pointer": "Date of the three-arm design",
+    "targets": [],
+    "note": "NOT IN THIS RELEASE. Appendix F gives the chronology. The underlying notes are omitted."
+  },
+  {
+    "line": 297,
+    "pointer": "Prior use of own-history runs",
+    "targets": [],
+    "note": "NOT IN THIS RELEASE. Appendix F gives the chronology. The underlying notes are omitted."
+  },
+  {
+    "line": 298,
+    "pointer": "Origin of the three-arm comparison",
+    "targets": [],
+    "note": "NOT IN THIS RELEASE. Appendix F gives the chronology. The underlying notes are omitted."
+  },
+  {
+    "line": 299,
+    "pointer": "prereg folder",
+    "targets": [
+      {
+        "path": "prereg/PREREG_block_F.md",
+        "fields": []
+      },
+      {
+        "path": "prereg/PREREG_block_H.md",
+        "fields": []
+      },
+      {
+        "path": "prereg/PREREG_read_fresh.md",
+        "fields": []
+      },
+      {
+        "path": "prereg/PREREG_block_F2.md",
+        "fields": []
+      },
+      {
+        "path": "prereg/PREREG_block_F2b_terra.md",
+        "fields": []
+      }
+    ],
+    "note": ""
+  },
+  {
+    "line": 620,
+    "pointer": "arms_F.json and arms_v3.json, objects.repaired_templates",
+    "targets": [
+      {
+        "path": "data/arms_F.json",
+        "fields": [
+          "/objects/repaired_templates"
+        ]
+      },
+      {
+        "path": "data/arms_v3.json",
+        "fields": [
+          "/objects/repaired_templates"
+        ]
+      }
+    ],
+    "note": ""
+  }
+]

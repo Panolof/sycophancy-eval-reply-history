@@ -1,0 +1,1 @@
+Figure 1. One model call, or four. With a supplied script, the test writes the whole conversation and the model writes one reply. With its own history, the model writes every assistant turn. The user messages are the same. Drawn by script from the frozen files; no image model.

@@ -1,0 +1,1 @@
+Figure 3. The parser used the final line of one saved reply. Both reader models marked the reply as under protest. Drawn by script from the saved reply and labels. No image model.

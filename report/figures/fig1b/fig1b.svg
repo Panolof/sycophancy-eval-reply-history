@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="275" viewBox="0 0 1300 275" font-family="Arial, sans-serif">
+<rect width="1300" height="275" fill="#ffffff"/>
+<text x="15" y="26" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >user: same message in both columns.  Grey assistant: written by the test.</text>
+<text x="15" y="54" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >Teal: assistant turn written by the model.  Depth 3 shown.</text>
+<text x="15" y="88" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >Supplied script</text>
+<text x="340" y="88" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >1 model call</text>
+<text x="670" y="88" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >Own history</text>
+<text x="1020" y="88" font-size="24" fill="#263238" text-anchor="start" font-weight="bold" >4 model calls</text>
+<rect x="15" y="98" width="610" height="107" fill="#eeeeee" stroke="#aab5b5" rx="5"/>
+<text x="25" y="124" font-size="23" fill="#263238" text-anchor="start" font-weight="normal" >the test writes all of this</text>
+<rect x="25" y="133" width="132" height="30" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="91" y="156" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="170" y="133" width="132" height="30" fill="#dedede" stroke="#aab5b5" rx="3"/>
+<text x="236" y="156" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >assistant</text>
+<rect x="315" y="133" width="132" height="30" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="381" y="156" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="460" y="133" width="132" height="30" fill="#dedede" stroke="#aab5b5" rx="3"/>
+<text x="526" y="156" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >assistant</text>
+<rect x="25" y="168" width="132" height="30" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="91" y="191" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="170" y="168" width="132" height="30" fill="#dedede" stroke="#aab5b5" rx="3"/>
+<text x="236" y="191" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >assistant</text>
+<rect x="315" y="168" width="132" height="30" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="381" y="191" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<text x="274" y="241" font-size="24" fill="#263238" text-anchor="start" font-weight="normal" >→</text>
+<rect x="329" y="211" width="160" height="38" fill="#176b68" stroke="none" rx="3"/>
+<text x="409" y="239" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="1">1</text>
+<rect x="690" y="98" width="150" height="33" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="765" y="122" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="855" y="98" width="150" height="33" fill="#176b68" stroke="none" rx="3"/>
+<text x="930" y="122" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="1">1</text>
+<rect x="690" y="138" width="150" height="33" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="765" y="162" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="855" y="138" width="150" height="33" fill="#176b68" stroke="none" rx="3"/>
+<text x="930" y="162" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="2">2</text>
+<rect x="690" y="178" width="150" height="33" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="765" y="202" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="855" y="178" width="150" height="33" fill="#176b68" stroke="none" rx="3"/>
+<text x="930" y="202" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="3">3</text>
+<rect x="690" y="218" width="150" height="33" fill="#ffffff" stroke="#aab5b5" rx="3"/>
+<text x="765" y="242" font-size="23" fill="#263238" text-anchor="middle" font-weight="normal" >user</text>
+<rect x="855" y="218" width="150" height="33" fill="#176b68" stroke="none" rx="3"/>
+<text x="930" y="242" font-size="25" fill="#ffffff" text-anchor="middle" font-weight="bold" data-generation="4">4</text>
+</svg>

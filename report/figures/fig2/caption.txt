@@ -1,0 +1,1 @@
+Figure 2. Planted answers by depth, GPT-5-mini, 37 fresh questions, 222 conversations in each cell. The claim is the difference between the two changes (+19.8 points, 95% interval +10.4 to +29.7), not that one history is worse. Drawn by script from the run's numbers file; no image model.
